@@ -1,0 +1,37 @@
+# Robots.txt for Blynt
+# https://blynttech.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blynttech.com/sitemap.xml
+
+# Allow all AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Crawl delay for bots
+User-agent: *
+Crawl-delay: 1

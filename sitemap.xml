@@ -6,42 +6,42 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://blynttech.com/</loc>
+    <loc>https://blynt.tech/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/about</loc>
+    <loc>https://blynt.tech/about</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/services</loc>
+    <loc>https://blynt.tech/services</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/works</loc>
+    <loc>https://blynt.tech/works</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs</loc>
+    <loc>https://blynt.tech/blogs</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/contact</loc>
+    <loc>https://blynt.tech/contact</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -49,91 +49,91 @@
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://blynttech.com/blogs/ai-transforming-software-development-2025</loc>
+    <loc>https://blynt.tech/blogs/ai-transforming-software-development-2025</loc>
     <lastmod>2024-12-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/choosing-software-development-company-2025</loc>
+    <loc>https://blynt.tech/blogs/choosing-software-development-company-2025</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/ai-automation-business-processes</loc>
+    <loc>https://blynt.tech/blogs/ai-automation-business-processes</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/custom-software-vs-off-the-shelf</loc>
+    <loc>https://blynt.tech/blogs/custom-software-vs-off-the-shelf</loc>
     <lastmod>2024-12-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/mvp-development-startup-guide</loc>
+    <loc>https://blynt.tech/blogs/mvp-development-startup-guide</loc>
     <lastmod>2024-12-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/web-app-development-technologies-2025</loc>
+    <loc>https://blynt.tech/blogs/web-app-development-technologies-2025</loc>
     <lastmod>2024-12-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/flutter-vs-react-native-2025</loc>
+    <loc>https://blynt.tech/blogs/flutter-vs-react-native-2025</loc>
     <lastmod>2024-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/mobile-app-development-cost-guide</loc>
+    <loc>https://blynt.tech/blogs/mobile-app-development-cost-guide</loc>
     <lastmod>2024-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/building-scalable-saas-platforms</loc>
+    <loc>https://blynt.tech/blogs/building-scalable-saas-platforms</loc>
     <lastmod>2024-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/enterprise-software-development-guide</loc>
+    <loc>https://blynt.tech/blogs/enterprise-software-development-guide</loc>
     <lastmod>2024-12-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/llm-integration-business-applications</loc>
+    <loc>https://blynt.tech/blogs/llm-integration-business-applications</loc>
     <lastmod>2024-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/nextjs-performance-optimization</loc>
+    <loc>https://blynt.tech/blogs/nextjs-performance-optimization</loc>
     <lastmod>2024-12-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://blynttech.com/blogs/api-design-best-practices</loc>
+    <loc>https://blynt.tech/blogs/api-design-best-practices</loc>
     <lastmod>2024-11-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

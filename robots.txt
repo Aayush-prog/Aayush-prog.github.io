@@ -1,11 +1,11 @@
 # Robots.txt for Blynt
-# https://blynttech.com
+# https://blynt.tech
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://blynttech.com/sitemap.xml
+Sitemap: https://blynt.tech/sitemap.xml
 
 # Allow all AI crawlers
 User-agent: GPTBot

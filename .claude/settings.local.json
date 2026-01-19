@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git push)",
-      "Bash(cd:*)",
-      "Bash(cd /Users/bombhu/Documents/blynt\\\\ tech/Aayush-prog.github.io && git pull:*)"
-    ]
-  }
-}
